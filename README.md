@@ -91,7 +91,7 @@ This is expected for a Kali Linux workstation but represents elevated privileges
 <img width="582" height="66" alt="ludo1" src="https://github.com/user-attachments/assets/ed28a316-9e0d-4ba7-b6f0-e72c6451b241" />
 
 
- <img width="959" height="44" alt="ludo2" src="https://github.com/user-attachments/assets/792e602d-0b20-45d1-be51-901cf985b230" />
+
 
 4. Review User Home Directories
 
