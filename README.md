@@ -138,7 +138,7 @@ Analysis
 
 The permissions observed were appropriate.
 
-📸 Screenshot 4 — Sensitive Account Files
+ Screenshot 4 — Sensitive Account Files
 
 ⸻<img width="248" height="34" alt="ludo4" src="https://github.com/user-attachments/assets/9fdac56c-0e16-4cc3-8994-efa2d75e7031" />
 
@@ -215,6 +215,8 @@ Account status information was reviewed to identify locked or unusual account st
  Screenshot 6 — Account Status
 
 Screenshot should show the output of passwd -S -a.
+
+
 <img width="236" height="29" alt="ludo5" src="https://github.com/user-attachments/assets/36900aa6-852b-48e7-a99c-9b87225b3cb7" />
 
 11. Review Login-Capable Accounts
