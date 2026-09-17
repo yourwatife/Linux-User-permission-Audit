@@ -38,7 +38,10 @@ root
 Analysis
 
 The investigation was performed with root privileges, allowing protected system files and account configurations to be examined.
-<img width="960" height="374" alt="o1_whoami" src="https://github.com/user-attachments/assets/705972fd-ffed-4aab-b8d4-3801cd256942" />
+
+
+<img width="164" height="46" alt="whoamiroot" src="https://github.com/user-attachments/assets/e82f9279-41f3-4892-80bc-aa898f4ff328" />
+
 
 
 
