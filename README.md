@@ -203,6 +203,8 @@ This check was performed to identify accounts with empty password fields.
 No account was identified as requiring investigation from this check.
 
 
+<img width="236" height="29" alt="ludo5" src="https://github.com/user-attachments/assets/36900aa6-852b-48e7-a99c-9b87225b3cb7" />
+
 10. Review Account Lock Status
 
 Command
@@ -218,7 +220,7 @@ Account status information was reviewed to identify locked or unusual account st
 Screenshot should show the output of passwd -S -a.
 
 
-<img width="236" height="29" alt="ludo5" src="https://github.com/user-attachments/assets/36900aa6-852b-48e7-a99c-9b87225b3cb7" />
+<img width="318" height="272" alt="ludo6" src="https://github.com/user-attachments/assets/f0943134-6156-4ff9-a5d8-d91b2822e3fd" />
 
 11. Review Login-Capable Accounts
 
