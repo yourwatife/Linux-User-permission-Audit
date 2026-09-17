@@ -240,7 +240,8 @@ No obvious suspicious account configuration was identified.
 
 Screenshot  shows the accounts and their configured login shells.
 
-<img width="318" height="272" alt="ludo6" src="https://github.com/user-attachments/assets/9557438e-7568-4a37-80a3-977e167c7732" />
+<img width="300" height="99" alt="login" src="https://github.com/user-attachments/assets/3c609de7-921f-4c98-bff4-c369b11a1964" />
+
 
 12. Review Important Directory Permissions
 
