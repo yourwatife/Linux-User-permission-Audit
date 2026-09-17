@@ -140,8 +140,7 @@ The permissions observed were appropriate.
 
  Screenshot 4 — Sensitive Account Files
 
-⸻<img width="248" height="34" alt="ludo4" src="https://github.com/user-attachments/assets/9fdac56c-0e16-4cc3-8994-efa2d75e7031" />
-
+<img width="236" height="29" alt="ludo5" src="https://github.com/user-attachments/assets/d5ee22b6-48b8-4021-97b6-08149eb5aa49" />
 
 6. Review User Privileges
 
