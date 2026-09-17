@@ -39,12 +39,6 @@ Analysis
 
 The investigation was performed with root privileges, allowing protected system files and account configurations to be examined.
 
-
-<img width="164" height="46" alt="whoamiroot" src="https://github.com/user-attachments/assets/e82f9279-41f3-4892-80bc-aa898f4ff328" />
-
-
-
-
 2. Enumerate User Accounts
 
 Command
@@ -72,7 +66,9 @@ The nobody account is a standard restricted system account used by Linux service
 
 Screenshot 1 — User Accounts
 
-<img width="582" height="66" alt="ludo1" src="https://github.com/user-attachments/assets/ed28a316-9e0d-4ba7-b6f0-e72c6451b241" />
+<img width="164" height="46" alt="whoamiroot" src="https://github.com/user-attachments/assets/e82f9279-41f3-4892-80bc-aa898f4ff328" />
+
+
 
 3. Review Sudo Group Membership
 
@@ -91,6 +87,9 @@ Membership in the sudo group allows the user to perform administrative actions t
 This is expected for a Kali Linux workstation but represents elevated privileges.
 
  Screenshot 2 — Sudo Group
+ 
+<img width="582" height="66" alt="ludo1" src="https://github.com/user-attachments/assets/ed28a316-9e0d-4ba7-b6f0-e72c6451b241" />
+
 
  <img width="959" height="44" alt="ludo2" src="https://github.com/user-attachments/assets/792e602d-0b20-45d1-be51-901cf985b230" />
 
@@ -157,12 +156,7 @@ The kali account belongs to the sudo group.
 Analysis
 
 This confirms that the account has access to administrative functionality through sudo.
-
-📸 Screenshot 5 — User Privileges
-
-
-<img width="236" height="29" alt="ludo5" src="https://github.com/user-attachments/assets/36900aa6-852b-48e7-a99c-9b87225b3cb7" />
-
+<img width="959" height="44" alt="ludo2" src="https://github.com/user-attachments/assets/2c5fef3f-cf08-4b27-9f02-e1cde10eb085" />
 
 7. Check for World-Writable Files
 
@@ -219,12 +213,9 @@ Analysis
 Account status information was reviewed to identify locked or unusual account states.
 
  Screenshot 6 — Account Status
-<img width="222" height="40" alt="ludo7" src="https://github.com/user-attachments/assets/352cd567-05be-44ec-86a0-23a27cd5a50e" />
 
 Screenshot should show the output of passwd -S -a.
-
-<img width="318" height="272" alt="ludo6" src="https://github.com/user-attachments/assets/9557438e-7568-4a37-80a3-977e167c7732" />
-
+<img width="236" height="29" alt="ludo5" src="https://github.com/user-attachments/assets/36900aa6-852b-48e7-a99c-9b87225b3cb7" />
 
 11. Review Login-Capable Accounts
 
@@ -244,8 +235,7 @@ No obvious suspicious account configuration was identified.
 
 Screenshot  shows the accounts and their configured login shells.
 
-<img width="222" height="40" alt="ludo7" src="https://github.com/user-attachments/assets/28c90716-2bcf-4c8f-9418-6648d60aa61c" />
-
+<img width="318" height="272" alt="ludo6" src="https://github.com/user-attachments/assets/9557438e-7568-4a37-80a3-977e167c7732" />
 
 12. Review Important Directory Permissions
 
@@ -263,7 +253,9 @@ Screenshot 8 — Directory Permissions
 
 Screenshot  show the permissions and ownership of /home, /tmp, and /var/tmp entries returned by the command.
 
-<img width="281" height="39" alt="ludo8" src="https://github.com/user-attachments/assets/49d66812-98bb-4d56-b590-f1cda9c6afa2" />
+
+
+<img width="222" height="40" alt="ludo7" src="https://github.com/user-attachments/assets/28c90716-2bcf-4c8f-9418-6648d60aa61c" />
 
 13. Check /etc for World-Writable Files
 
