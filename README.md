@@ -38,7 +38,8 @@ root
 Analysis
 
 The investigation was performed with root privileges, allowing protected system files and account configurations to be examined.
-<img width="582" height="66" alt="ludo1" src="https://github.com/user-attachments/assets/9aea1ece-70ec-4c4d-87f4-932e81b8fcb2" />
+<img width="960" height="374" alt="o1_whoami" src="https://github.com/user-attachments/assets/705972fd-ffed-4aab-b8d4-3801cd256942" />
+
 
 
 2. Enumerate User Accounts
